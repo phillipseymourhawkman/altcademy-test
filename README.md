@@ -1,2 +1,2 @@
 # altcademy-test
-Testing githiub through Altcademy tutorial. 
+Testing github through Altcademy tutorial. 
